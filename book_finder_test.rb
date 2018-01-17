@@ -1,5 +1,5 @@
 require "minitest/autorun"
-require_relative "book_finder.rb"  
+require_relative "book_finder_program.rb"  
 
 class TestMath < Minitest::Test  
 	def test_assert_that_1_equals_1
